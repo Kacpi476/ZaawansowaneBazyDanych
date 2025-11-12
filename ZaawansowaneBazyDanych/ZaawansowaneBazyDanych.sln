@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ZaawansowaneBazyDanych", "ZaawansowaneBazyDanych\ZaawansowaneBazyDanych.sqlproj", "{C891D006-1E50-423F-B2B9-D0D2793DCBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C891D006-1E50-423F-B2B9-D0D2793DCBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C891D006-1E50-423F-B2B9-D0D2793DCBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C891D006-1E50-423F-B2B9-D0D2793DCBEF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C891D006-1E50-423F-B2B9-D0D2793DCBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C891D006-1E50-423F-B2B9-D0D2793DCBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C891D006-1E50-423F-B2B9-D0D2793DCBEF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71CEA60C-393E-4490-8280-3B823A371AC8}
+	EndGlobalSection
+EndGlobal
